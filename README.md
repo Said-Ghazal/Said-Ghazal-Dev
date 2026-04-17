@@ -38,6 +38,9 @@
 
 ### 📊 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=said-ghazal&show_icons=true&theme=radium&hide_border=true)](https://github.com/said-ghazal)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=said-ghazal&layout=compact&theme=radium&hide_border=true)](https://github.com/said-ghazal)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Said-Ghazal&theme=radical" alt="GitHub Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Said-Ghazal&theme=radical" alt="GitHub Top Languages" />
+</p>
